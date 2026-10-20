@@ -149,7 +149,7 @@ if pca_features.shape[1] >= 2 and len(pca_features) >= 2:
     st.pyplot(fig)
 else:
     st.warning("Not enough numeric features for 2D PCA.")
-
+# LDA Visualization
 st.subheader("LDA Visualization")
 
 lda_features = clean_data.drop(
