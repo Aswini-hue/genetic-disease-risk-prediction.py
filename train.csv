@@ -1,0 +1,11 @@
+Gene_ID,Gene_Expression,Mutation,Disease_Risk
+G001,12.5,1,High
+G002,8.2,0,Low
+G003,15.1,1,High
+G004,10.3,0,Medium
+G005,18.7,1,High
+G006,7.5,0,Low
+G007,13.2,1,Medium
+G008,9.8,0,Low
+G009,16.4,1,High
+G010,11.0,0,Medium
